@@ -1,0 +1,12 @@
+.Board {
+	margin: 0 auto;
+}
+.winner {
+	width: 200px;
+	height: 100px;
+	background-color: cornflowerblue;
+	color: orange;
+	font-size: 2rem;
+	line-height: 100px;
+	margin: 0 auto;
+}
